@@ -1,7 +1,5 @@
-
-
 **Shell – Final Case Study Assessment**
-
+install java
 # **Scenario:** 
 Streamline Solutions Inc. - Optimizing Software Deployment
 
@@ -75,4 +73,3 @@ You will be evaluated on the following criterias:
 |Azure Board Activities|Azure VM Creation|Github Activities|Maven Activity|Prometheus Activity|Dockerfile Creation|Github Actions|Azure Web App Creation|Azure Web App Deployment|Testing the Output|Understanding of Concepts|Completion and Submission within timeframe|Total Score|
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
 |10|5|10|5|5|10|15|5|10|5|10|10|100|
-
