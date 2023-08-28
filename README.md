@@ -7,6 +7,7 @@ Streamline Solutions Inc. - Optimizing Software Deployment
 Implementing a Seamless CI/CD Workflow for a Spring Boot Application using Azure Boards, Azure, Git, Maven, Docker, Github, Github Actions
 
 # **Background:**
+Install java
 Streamline Solutions Inc. is a dynamic technology company specializing in cutting-edge software solutions. The company is developing a sophisticated Java Spring Boot application designed to revolutionize user experience. To ensure a swift and error-free software deployment process, Streamline Solutions is seeking to establish an efficient Continuous Integration and Continuous Deployment (CI/CD) workflow.
 
 # **Activities:**
